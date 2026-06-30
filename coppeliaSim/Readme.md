@@ -1,10 +1,10 @@
 # Robotics Control with CoppeliaSim and Python
 
-## 📋 Overview
+## Overview
 
 This repository contains a comprehensive collection of robotics control projects implemented in Python using the CoppeliaSim simulation environment. The projects cover fundamental robotics concepts from basic robot control to advanced motion planning, all connected through the ZeroMQ Remote API.
 
-### 🔬 Key Topics Covered
+### Key Topics Covered
 - Robot control and kinematics (forward/inverse)
 - Motion planning (potential fields, OMPL)
 - Trajectory generation (Bezier splines)
@@ -14,12 +14,12 @@ This repository contains a comprehensive collection of robotics control projects
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 
 ---
 
-## 🎯 Project Descriptions
+## Project Descriptions
 
 ### 1. BubbleRob Control
 
@@ -100,7 +100,7 @@ This repository contains a comprehensive collection of robotics control projects
 
 ---
 
-## 🔧 Technologies & Dependencies
+## Technologies & Dependencies
 
 | Component | Technology | Version |
 |-----------|------------|---------|
@@ -115,7 +115,7 @@ This repository contains a comprehensive collection of robotics control projects
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
