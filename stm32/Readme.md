@@ -1,7 +1,7 @@
 
 ---
 
-## 🎯 Projekte im Detail
+##  Projekte im Detail
 
 ### 1. LED/Taster-Steuerung
 Grundlegende Konzepte der Embedded-Programmierung:
@@ -35,7 +35,7 @@ Kombination von 7-Segment-Anzeige mit serieller Kommunikation:
 
 ---
 
-## 🔑 Zentrale Komponenten (Bibliotheken)
+##  Zentrale Komponenten (Bibliotheken)
 
 Über alle Projekte hinweg werden folgende wiederverwendbare Klassen eingesetzt:
 
